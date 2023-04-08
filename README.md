@@ -1,4 +1,4 @@
-<h1>Project Name: Wine Quality Prediction<h1>
+<h1>Project Name: Wine Quality Prediction</h1>
 This project aims to predict the quality of wine based on various chemical properties. The dataset used in this project is publicly available and contains information on different red and white wine samples.
 
 Technologies Used
