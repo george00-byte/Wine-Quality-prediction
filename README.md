@@ -23,5 +23,7 @@ Applying various machine learning algorithms, including linear regression, decis
 Evaluating the performance of each algorithm using various metrics such as mean squared error, mean absolute error, and coefficient of determination
 Optimizing the hyperparameters of the best performing algorithm to improve the model's performance
 Summarizing the results and providing insights on how the findings could be used to improve the quality of wine production.
+
+
 Conclusion
 This project demonstrates the use of machine learning algorithms to predict the quality of wine based on chemical properties. The findings could be used to improve the quality of wine production by identifying the most important chemical properties that affect wine quality.
